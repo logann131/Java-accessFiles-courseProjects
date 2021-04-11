@@ -1,3 +1,7 @@
+/* Nam Phu Nguyen (Logan)
+   CS141 
+   Programing Assignment
+   */
 import java.util.*;//declare .util.* package
 import java.io.*;//declare the .io.* package
 class Q3{
